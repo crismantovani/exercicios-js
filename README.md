@@ -1,2 +1,2 @@
-# eExercícios JavaScript
+# Exercícios JavaScript
 Exercícios de JavaScript &amp; Arrays | @Laboratoria BR
